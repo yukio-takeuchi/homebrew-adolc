@@ -3,7 +3,8 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class AdolC < Formula
   desc ""
-  homepage "https://projects.coin-or.org/ADOL-C"
+  #homepage "https://projects.coin-or.org/ADOL-C"
+  homepage "https://github.com/coin-or/ADOL-C"
   url "https://www.coin-or.org/download/source/ADOL-C/ADOL-C-2.7.2.tgz"
   sha256 "902b98e39fdc44b2eb3deaa2e5b7e5d998b7c189e074db88d068e690b65782c3"
 
